@@ -2,7 +2,7 @@ import './App.css'
 import './index.css'
 import AboutMe from './components/aboutme/AboutMe'
 import RoleDescription from './components/aboutme/RoleDescription'
-import NavBar from './components/navbar/navbar'
+import NavBar from './components/navbar/Navbar'
 import Footer from './components/footer/Footer'
 import Gimmick from './components/gimmick/Gimmick'
 
