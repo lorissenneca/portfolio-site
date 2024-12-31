@@ -1,6 +1,6 @@
 import './App.css'
 import './index.css'
-import Aboutme from './components/aboutme/Aboutme'
+import AboutMe from './components/aboutme/AboutMe'
 import RoleDescription from './components/aboutme/RoleDescription'
 import NavBar from './components/navbar/navbar'
 import Footer from './components/footer/Footer'
@@ -15,7 +15,7 @@ function App() {
         <NavBar/>
       </div>
       <div>
-        <Aboutme/>
+        <AboutMe/>
       </div>
       <div>
 
